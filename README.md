@@ -1,7 +1,24 @@
 # LibreFlix Cli
-[![Bash4.4.18-shield]](http://tldp.org/LDP/abs/html/bashver4.html#AEN21220)
+
+## O que é?
+*LibreFlix CLI* é uma versão NÃO oficial do [LibreFlix](https://https://libreflix.org/) para você assistir seus filmes pelo seu terminal na sua distribuição GNU/Linux.
+
+## Dependência
+* youtube-dl >= 2019.06.21
+* mplayer    >= 1.2.1-5.3.0
+* bash       >= 4.3.48
+
+## Licença
+GPLv3
+
+## 
 
 ![IMG1]
+
+
+
+
+
 
 
 
