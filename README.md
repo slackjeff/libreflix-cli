@@ -1,7 +1,7 @@
 # LibreFlix Cli
 
 ## O que é?
-*LibreFlix CLI* é uma versão NÃO oficial do [LibreFlix](https://https://libreflix.org/) para você assistir seus filmes pelo seu terminal na sua distribuição GNU/Linux.
+*LibreFlix CLI* é uma versão NÃO oficial do [LibreFlix](https://libreflix.org/) para você assistir seus filmes pelo seu terminal na sua distribuição GNU/Linux.
 
 ## Dependência
 * youtube-dl >= 2019.06.21
