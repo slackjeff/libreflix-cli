@@ -1,2 +1,2 @@
-# netfrix
+# LibreFlix Cli
 
