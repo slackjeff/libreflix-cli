@@ -3,8 +3,11 @@
 ## O que é?
 *LibreFlix CLI* é uma versão NÃO oficial do [LibreFlix](https://libreflix.org/) para você assistir seus filmes pelo seu terminal na sua distribuição GNU/Linux.
 
+## Como Funciona?
+O LibreFlix CLI é feito em Bash e utiliza a orientação a teclas para navegar entre as telas. O banco de dados que utilizamos são seguindo a metodologia de Fichas. Cada filme tem a sua própria ficha armazenado em texto plano, qualquer pessoa pode fazer a manutenção. Foi criado com este propósito.
+
 ## Versão
-0.1 BETA
+0.1 BETA (Não recomendado para o público.)
 
 ## Dependência
 * youtube-dl >= 2019.06.21
