@@ -1,0 +1,15 @@
+# Nome da Obra
+title_name='Antes Que Ela Vá'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='+14'
+
+# Link do video:
+url_video='https://youtu.be/bqOAx5X3TZQ'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='Rio de Janeiro, Barra da Tijuca. Um jovem casal decide matar
+aula para ir à praia. Porém, vivem a tarde mais perturbadora de seu namoro
+em função da preocupação com seis meses no futuro: quando ela vai se mudar
+para Paris para estudar e perseguir seu sonho de ser escritora.'

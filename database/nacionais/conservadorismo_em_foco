@@ -1,0 +1,15 @@
+# Nome da Obra
+title_name='Conservadorismo em Foco'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='+14'
+
+# Link do video:
+url_video='https://youtu.be/CZ-Ws2vzakA'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='Um filme sobre a ideologia burguesa e suas formas de
+dominação. O filme expõe o processo histórico de formação do conservadorismo
+na Europa e nos EUA a partir da década de 30 e acompanha seus desdobramentos
+até os dias atuais no Brasil.'

@@ -1,0 +1,19 @@
+# Nome da Obra
+title_name='Lugar de lixo é no lixo'
+
+# Classificação (Livre, +12, +13, +16, +18 etc...)
+classification='Livre'
+
+# Link do video:
+url_video='https://youtu.be/s0olfOkcAzw'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+# Isso é importante para na hora da impressão no terminal não ficar
+# quebrado a descrição ou muito longa.
+#==========================================================================|
+description='Lugar de lixo é no lixo é uma animação em tecnologia 3D
+totalmente produzida em Natal, com softwares livres e apoiado pela
+prefeitura de Natal e o fundo de cultura municipal. Trata-se de uma
+obra voltada para educação sobre o meio ambiente, o qual conta a história
+de 3 meninos que aprendem a não sujar as ruas, especialmente pelo fato de
+tudo ficar sujo e juntarem ratos, baratas e insetos.'

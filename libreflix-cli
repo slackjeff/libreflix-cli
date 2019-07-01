@@ -1,0 +1,81 @@
+#!/usr/bin/env bash
+#================HEADER======================================================|
+#AUTOR
+# Jefferson Rocha <root@slackjeff.com.br>
+#
+#LICENÇA
+# GPLv3
+#
+#CHANGELOG
+# changelog externo
+#============================================================================|
+
+#==========================BIBLIOTECAS
+. libreflix-cli.conf # Configuração
+. core.sh            # Funções Necessárias
+
+#==========================TESTES
+# Verficando se banco de dados existe.
+[[ ! -d "${DATABASE}" ]] && { echo "${DATABASE} não foi encontrado."; exit 1;}
+
+list=( # Dependencias do programa
+   'youtube-dl'
+   'mplayer'
+)
+
+# Fazendo as conferencias se todas as
+# dependencias existem.
+for conf in "${list[@]}"; do
+   type "${conf}"&>/dev/null || { echo "${conf} Não existe no sistema."; exit 1;}
+done
+
+# Atualizando Banco de Dados.
+#url_database='https://slackjeff.com.br/database'
+#echo "====> Atualizando Banco de Dados..."
+#if wget -q --show-progress "$url_database" -O "$DATABASE"; then
+#   echo -e "\n====> ${blue_}Banco de dados Atualizado.${end_}"
+#   sleep 1.2s
+#fi
+
+#==========================INICIO
+
+# Lista do menu.
+menu=( # Adicione as opções do menu aqui!
+   'Sair'
+   'Ajuda'
+   'Licença'
+   'Assistir um Vídeo'
+)
+while true; do
+   clear
+   _LOGO | lolcat # Chamada da função do LOGO
+   i_menu='0'     # Incremento para menu
+   echo "############ MENU PRINCIPAL"
+   for op in "${menu[@]}"; do
+      if [[ "$op" = "Sair" ]]; then
+          echo -e "[ ${red_}${i_menu}${end_} ] ${op}"
+      else
+          echo -e "[ ${cyan_}${i_menu}${end_} ] ${op}"
+      fi
+      i_menu=$(( $i_menu + 1 )) # Incremento
+   done
+   echo "##########################"
+   echo -e '\e[36;1m'
+   read -p $'\nEscolha uma opção: ' choice
+   echo -e '\e[m'
+   [[ -z "$choice" ]] && { echo -e "${red_}Escolha uma opção.${end_}"; sleep 0.5s; continue;} # Nulo?
+   case $choice in
+      0) exit 0 ;;
+      1) echo   ;;
+      3)
+         pushd "$DATABASE"
+         while true; do
+             _DATABASE
+             # status 32? O loop deve parar e ir para menu principal.
+             [[ "$?" = '32' ]] && break
+         done
+      ;;
+   esac
+done
+
+

@@ -1,0 +1,16 @@
+# Nome da Obra
+title_name='Hotel Laide'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='+14'
+
+# Link do video:
+url_video='https://youtu.be/05ZEhEElNwY'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='Hotel Laide foi um dos mais importantes hotéis sociais da
+política de redução de danos para os usuários de crack da maior Cracolândia
+da América Latina. Um incêndio o destruiu, como em um anúncio da destruição
+que assombraria São Paulo com a política de prisão e internação para os
+usuários de crack.'

@@ -1,0 +1,17 @@
+# Nome da Obra
+title_name='Limite'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='+12'
+
+# Link do video:
+url_video='https://youtu.be/UeEArblJiMs'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description="Em um pequeno barco à deriva, duas mulheres e um homem 
+relembram seu passado recente. Uma das mulheres escapou da prisão; a outra
+estava desesperada; e o homem tinha perdido sua amante. Cansados, eles
+param de remar e se conformam com a morte, relembrando as situações de seu
+passado. Eles não têm mais força ou desejo de viver e atingiram o limite de
+suas existências."

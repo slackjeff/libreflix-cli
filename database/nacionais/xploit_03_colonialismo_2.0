@@ -1,0 +1,16 @@
+# Nome da Obra
+title_name='XPLOIT - 03 - Colonialismo 2.0'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='Livre'
+
+# Link do video:
+url_video='https://youtu.be/OLFwCBzB5U0'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='Como a concentração da infraestrutura da internet nas mãos de
+alguns países e empresas e a monocultura das grandes aplicações acaba
+desenhando contornos que lembram o período colonial entre os séculos XVI e
+XX, impondo uma dependência para seu funcionamento  e restringindo a
+pluralidade sonhada pelos seus pioneiros.'

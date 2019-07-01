@@ -1,0 +1,15 @@
+# Nome da Obra
+title_name='Sita Sings the Blues'
+
+# Classificação (Livre, +12, +13, +16, +18 etc...)
+classification='Livre'
+
+# Link do video:
+url_video='https://youtu.be/1QkYOqI3jSM'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+# Isso é importante para na hora da impressão no terminal não ficar
+# quebrado a descrição ou muito longa.
+#==========================================================================|
+description='Sita Sings the Blues" é baseado no épico Hindu "The Ramayana".
+Sita é uma deusa separada de seu amado senhor e marido Rama!'

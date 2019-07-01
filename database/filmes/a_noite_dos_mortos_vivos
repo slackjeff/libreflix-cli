@@ -1,0 +1,14 @@
+# Nome da Obra
+title_name='A Noite dos Mortos-Vivos'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='+16'
+
+# Link do video:
+url_video='https://youtu.be/XkDHz-Iwr7U'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description="Os mortos andam e têm fome de carne humana. Um grupo de
+sobreviventes está isolado em uma casa de fazenda enquanto o exército de
+zumbis comedores de carne humana paira sobre suas portas."

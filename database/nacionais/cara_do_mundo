@@ -1,0 +1,17 @@
+# Nome da Obra
+title_name='Cara do Mundo'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='Livre'
+
+# Link do video:
+url_video='https://youtu.be/4JxnecB6L1s'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='São Paulo tem uma população de mais de 340 mil imigrantes
+– praticamente a mesma quantidade de habitantes de um país como a Islândia.
+Uma cidade perfeita para entrar em contato com gente de todas as partes do
+mundo. Pensando nisso, jovens das periferias da cidade, estudantes da Escola
+de Jornalismo da Énois, mergulharam no cotidiano de imigrantes e refugiados
+para conhecer suas histórias, sonhos e a relação com São Paulo.'

@@ -1,0 +1,15 @@
+# Nome da Obra
+title_name='Observar e Absorver'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='+12'
+
+# Link do video:
+url_video='https://youtu.be/I7arqW5luKc'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='"Eu sou extremamente ambicioso. Eu sou ambicioso de uma forma
+que ninguém pode conceber. Porque dinheiro, conforto, estabilidade, luxo,
+pra mim é pouco, eu quero mais. Eu quero tudo que eu puder levar dessa vida"
+por Eduardo Marinho'

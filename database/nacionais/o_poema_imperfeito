@@ -1,0 +1,16 @@
+# Nome da Obra
+title_name='O Poema Imperfeito'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='Livre'
+
+# Link do video:
+url_video='https://youtu.be/sqnv9HDsnQk'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='Com um profundo conhecimento sobre ecologia, e de uma forma
+muito cativante, Fernando Fernandez explica como o crescimento econômico
+desenfreado de uma sobrepopulação humana em um planeta com recursos finitos
+implica na perda da biodiversidade, dos serviços ecológicos e da qualidade
+de vida de seus habitantes – tanto humanos como não-humanos.'

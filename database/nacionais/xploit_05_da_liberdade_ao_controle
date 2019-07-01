@@ -1,0 +1,20 @@
+# Nome da Obra
+title_name='XPLOIT - 05 - Da Liberdade ao Controle'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='Livre'
+
+# Link do video:
+url_video='https://youtu.be/GlWg0E0YF74'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='No seu início a internet era um universo de possibilidades.
+O navegador era uma janela para multiplos espaços, pensamentos e invenções.
+Mas o mundo que conhecemos antes da rede mundial de computadores ser criada,
+não pode permitir que nada exista sem controle. E para um mundo de regras
+rígidas e relações de poder constituídas inflexíveis não pode permitir que
+um outro mundo espelhado nele possa existir de uma forma diferente. Assim,
+tanto coorporações quanto Estados nacionais foram se apropriando, amarrando,
+restringindo e moldando a Internet. Mas nem sempre a Internet esteve sob
+controle. Houve uma outra internet que muitos já nem se lembram.'

@@ -1,0 +1,16 @@
+# Nome da Obra
+title_name='Get Up and Funk'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='+10'
+
+# Link do video:
+url_video='https://youtu.be/hLt8WqJ191A'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='Primeiro documentário brasileiro sobre o Red Hot Chili Peppers,
+e se baseia nos depoimentos de importantes nomes da música nacional, dentre
+produtores, empresários, jornalistas e músicos. Eles destacam a importância
+do Chili Peppers para a história do rock e explicam porque é considerada
+uma das maiores bandas mundiais.'

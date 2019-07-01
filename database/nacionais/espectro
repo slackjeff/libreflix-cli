@@ -1,0 +1,15 @@
+# Nome da Obra
+title_name='Espectro'
+
+# Classificação (Livre, +12, +13 etc...)
+classification='+14'
+
+# Link do video:
+url_video='https://youtu.be/rUtNK0QEfa8'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+#==========================================================================|
+description='O curta-metragem conta sobre pai e filho que se encontram
+novamente após anos, em um momento extremamente delicado, em que mágoas,
+lembranças e dúvidas irão aflorar e deixar à prova seus sentimentos e
+princípios mais humanos.'

@@ -1,0 +1,18 @@
+# Nome da Obra
+title_name='O Fim do Recreio'
+
+# Classificação (Livre, +12, +13, +16, +18 etc...)
+classification='Livre'
+
+# Link do video:
+url_video='https://youtu.be/t0s1mGQxhAI'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+# Isso é importante para na hora da impressão no terminal não ficar
+# quebrado a descrição ou muito longa.
+#==========================================================================|
+description='No Congresso Nacional, um projeto de lei pretende acabar com o
+recreio escolar. Ao mesmo tempo, em uma escola municipal de Curitiba, um
+grupo de crianças pode mudar toda essa história. Recheado de vibrantes
+brincadeiras infantis, O Fim do Recreio é um curta-metragem para todos os
+públicos, que bota a boca no trombone e avisa: cobra parada não engole sapo!'

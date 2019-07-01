@@ -1,0 +1,15 @@
+# Nome da Obra
+title_name='Grande Urso Bunny'
+
+# Classificação (Livre, +12, +13, +16, +18 etc...)
+classification='Livre'
+
+# Link do video:
+url_video='https://youtu.be/aqz-KE-bpKQ'
+
+# Descrição da obra, não ultrapasse o pipe '|'
+# Isso é importante para na hora da impressão no terminal não ficar
+# quebrado a descrição ou muito longa.
+#==========================================================================|
+description='Um coelho gigantesco precisa lidar com três pequenos valentões,
+que desejam estragar com sua felicidade.'
